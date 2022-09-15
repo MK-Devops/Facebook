@@ -1,2 +1,3 @@
 This file contains strings related ode
-Added new lines 
+Added new lines
+more added.
